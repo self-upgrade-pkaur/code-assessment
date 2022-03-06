@@ -1,4 +1,4 @@
-# Valocity Technical Assessment
+# Valocity Technical Assessment--
 
 This assessment is designed to test how you follow instructions and think about
 the holistic impact of your entire code. It's purpose is not to try and trick
